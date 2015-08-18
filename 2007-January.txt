@@ -1,0 +1,31 @@
+From ingo.goeppert at gmx.de  Sun Jan 21 20:49:40 2007
+From: ingo.goeppert at gmx.de (Ingo =?iso-8859-1?q?G=F6ppert?=)
+Date: Sun, 21 Jan 2007 20:49:40 +0100
+Subject: [FaxGate-devel] faxgate 0.13 auf openSUSE Build Service
+Message-ID: <200701212049.44227.ingo.goeppert@gmx.de>
+
+Hallo,
+
+auf software.opensuse.org [1] steht faxgate ab sofort f?r verschiedene 
+Distris bereit zum Download. Falls noch eine der vom BuildService [2] 
+unterst?tzten Distris fehlt (ich habe bisher nur die aktuellsten SuSEs 
+aktiviert), bitte melden. Bitte ebenfalls melden ob die Builds 
+funktionieren oder nicht, ich kann das nicht alles selbst testen.
+
+Gr??e,
+Ingo
+
+[1] http://software.opensuse.org/download/home:/ingogoeppert/
+[2] http://de.opensuse.org/Build_Service
+-- 
+## Registered Linux User #274727 -- http://counter.li.org/
+## Windows, Linux und Mac Office-Suite -- http://de.openoffice.org/
+## Die OpenOffice.org PrOOo-Box -- http://prooo-box.org/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/faxgate-devel/attachments/20070121/fe2b9c60/attachment.pgp>
+
